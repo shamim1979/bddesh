@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/questionSection" model="[user:user,questions:questions]"></g:render>

@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/loadAnswerList" model="[user:user,answers:answers]"></g:render>

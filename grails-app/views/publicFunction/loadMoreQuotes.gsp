@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/quoteSection" model="[user:user,quotes:quotes]"></g:render>

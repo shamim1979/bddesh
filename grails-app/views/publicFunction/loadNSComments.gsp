@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/NSComments" model="[user:user,comments:comments]"></g:render>

@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/pollSection" model="[user:user,pollItemsMap:pollItemsMap]"></g:render>

@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/newsSourceSection" model="[user:user,newsSourcesMap:newsSourcesMap]"></g:render>

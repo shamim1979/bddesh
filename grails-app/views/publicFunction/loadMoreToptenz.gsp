@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/topTenSection" model="[topTenList:topTenList,user:user]"></g:render>

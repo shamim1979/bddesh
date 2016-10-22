@@ -1,0 +1,1 @@
+<g:render template="/publicFunction/newsSourceItemComments" model="[user:user,comments:comments]"></g:render>
